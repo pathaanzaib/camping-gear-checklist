@@ -21,8 +21,3 @@ https://outdoorsearcher.com
 ---
 
 This checklist is meant to be simple and helpful for anyone getting started with camping.
-
-## Useful Resource
-
-If you're looking for a more detailed guide on camping gear, you can check this:
-https://outdoorsearcher.com
